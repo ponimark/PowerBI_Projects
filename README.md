@@ -53,7 +53,6 @@ Welcome to my Power BI project repository, where I’ve showcased a variety of b
 
 **GitHub**: [ponimark](https://github.com/ponimark)  
 **Email**: markponi@uw.edu 
-
 **LinkedIn**: www.linkedin.com/in/malay-joshi-48185423a
 
 ---
